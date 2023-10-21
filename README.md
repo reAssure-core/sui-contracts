@@ -49,10 +49,3 @@ The `underwriter::vote` module allows users to create and participate in polls, 
 - The module's `init` function is called during the project's launch. It transfers the `PollCreationCap` capability to the owner to allow poll creation.
 - The `init` function is typically called once and sets up the necessary structures for poll creation and voting.
 
-
-
-## License
-
-[Include details about the license under which this code is distributed. You can specify the type of license and provide a link to the license file if applicable.]
-
-**Note:** This README provides an overview of the `underwriter::projectcoin` module. For more detailed technical documentation or specific usage instructions, please refer to the code comments and documentation within the source code files.
